@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###spotify playing 🎵
+### spotify playing 🎵
+
+
 [<img src="https://spotify-readm.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /](https://open.spotify.com/user/playlist/31ty7hqpe5mq6lxz45ggcnca5zdq)
