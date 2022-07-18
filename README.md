@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### spotify playing 🎵
 
 
-[![Spotify](![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/playlist/31ty7hqpe5mq6lxz45ggcnca5zdq)
+[![Spotify](![Spotify](spotify-readm.vercel.app/api/spotify)](https://open.spotify.com/user/playlist/31ty7hqpe5mq6lxz45ggcnca5zdq)
