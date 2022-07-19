@@ -1,6 +1,5 @@
-### Hi,i am anuj vidhate!!
-https://dribbble.com/shots/11310814-work-and-study-from-home-got-me-like
-<!--
+### Hi,i am anuj vidhate!✨
+<!--✨
 **Anuj7th-Hokage/Anuj7th-Hokage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
