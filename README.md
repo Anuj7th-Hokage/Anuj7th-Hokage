@@ -1,4 +1,4 @@
-### Hi,i am anuj vidhate!✨
+### Hi,i'm anuj vidhate!✨
 <!--✨
 **Anuj7th-Hokage/Anuj7th-Hokage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
