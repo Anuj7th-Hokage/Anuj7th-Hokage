@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### spotify playing 🎵
 
- (https://spotify-readm-eu0mcoe2b-rv881969-gmailcom.vercel.app/api/spotify)(https://open.spotify.com/user/playlist/31ty7hqpe5mq6lxz45ggcnca5zdq)
+ (https://novatorem.vercel.app.app/api/spotify)(https://open.spotify.com/user/playlist/31ty7hqpe5mq6lxz45ggcnca5zdq)
