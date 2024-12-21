@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anuj7th-Hokage&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats Graph" />
 </div>
-
+  <br>
 <!-- Technology Icons Section -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
