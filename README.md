@@ -24,4 +24,10 @@ Here are some ideas to get you started:
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://giffiles.alphacoders.com/218/218663.gif"  />
+</div>
+
 ###
