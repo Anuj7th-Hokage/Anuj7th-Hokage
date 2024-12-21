@@ -1,6 +1,7 @@
 ###
-<div align="center">
-  <h3>Hi, I'm Anuj Vidhate!✨</h3>
+<br>
+<div align="center" >
+  <h2>Hi, I'm Anuj Vidhate!✨</h2>
 </div>
 
 <!-- Spotify Recently Played Section -->
