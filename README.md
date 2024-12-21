@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### spotify playing 🎵
+<br clear="both">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+<div align="center">
+  <a href="https://open.spotify.com/user/31ifto4ecaf7ne7criwa6cydodoa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ifto4ecaf7ne7criwa6cydodoa&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
