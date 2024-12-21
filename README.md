@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Anuj7th-Hokage/Anuj7th-Hokage/output/snake.svg" alt="Snake animation" />
+
+###
