@@ -4,7 +4,6 @@
   <h2>Hi, I'm Anuj Vidhate!✨</h2>
 </div>
 
-<!-- Spotify Recently Played Section -->
 <div align="center">
   <a href="https://open.spotify.com/user/31ifto4ecaf7ne7criwa6cydodoa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ifto4ecaf7ne7criwa6cydodoa&count=1&unique=true" alt="Spotify Recently Played" />
@@ -16,12 +15,10 @@
   <img height="200" src="https://giffiles.alphacoders.com/218/218663.gif" alt="Animated GIF" />
 </div>
 
-<!-- Streak Stats Section -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anuj7th-Hokage&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats Graph" />
 </div>
   <br>
-<!-- Technology Icons Section -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
