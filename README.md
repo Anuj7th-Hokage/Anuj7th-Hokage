@@ -3,7 +3,6 @@
 <div align="center" >
   <h2>Hi, I'm Anuj Vidhate!✨</h2>
 </div>
-
 <div align="center">
   <a href="https://open.spotify.com/user/31ifto4ecaf7ne7criwa6cydodoa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ifto4ecaf7ne7criwa6cydodoa&count=1&unique=true" alt="Spotify Recently Played" />
